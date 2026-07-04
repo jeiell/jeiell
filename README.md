@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 👋 Olá, eu sou Natanael Teixeira
 
 💻 Desenvolvedor Web em evolução
