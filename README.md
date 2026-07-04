@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner Natanael Teixeira" width="100%">
-</p>
-# 👋 Olá, eu sou Natanael Teixeira
-
 💻 Desenvolvedor Web em evolução
 🎮 Criador de jogos em HTML5
 🎨 Designer UI/UX
