@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia, desenvolvimento de jogos, criação de aplicativos e modelagem 3D. Busco desenvolver projetos com visual moderno, boa experiência para o usuário e código organizado.
+Sou apaixonado por tecnologia, criação de aplicativos e modelagem 3D. Busco desenvolver projetos com visual moderno, boa experiência para o usuário e código organizado.
 
 Atualmente estou trabalhando em:
 
@@ -69,7 +69,6 @@ Modelagem de fachadas comerciais, objetos e ativos para Blender e 3ds Max.
 
 Seja bem-vindo ao meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução.
 
-📞WhatsApp: (99) 98804-2034
 
 ---
 
