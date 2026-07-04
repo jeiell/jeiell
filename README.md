@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Natanael Teixeira" width="100%">
+  <img src="./assets/banner.png" alt="Banner Natanael Teixeira" width="100%">
 </p>
-
 # 👋 Olá, eu sou Natanael Teixeira
 
 💻 Desenvolvedor Web em evolução
