@@ -1,3 +1,5 @@
+# 👋 Olá, eu sou Natanael Teixeira
+
 💻 Desenvolvedor Web em evolução
 🎮 Criador de jogos em HTML5
 🎨 Designer UI/UX
@@ -25,6 +27,7 @@ Atualmente estou trabalhando em:
 * JavaScript
 * Blender
 * 3ds Max
+* Figma
 * Git & GitHub
 
 ---
@@ -62,7 +65,7 @@ Modelagem de fachadas comerciais, objetos e ativos para Blender e 3ds Max.
 
 Seja bem-vindo ao meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução.
 
-# (99) 988042034
+#(99)988042034
 
 ---
 
