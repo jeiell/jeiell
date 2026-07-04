@@ -69,7 +69,7 @@ Modelagem de fachadas comerciais, objetos e ativos para Blender e 3ds Max.
 
 Seja bem-vindo ao meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução.
 
-📞 # WhatsApp: (99) 98804-2034
+📞WhatsApp: (99) 98804-2034
 
 ---
 
