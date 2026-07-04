@@ -1,19 +1,17 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
-</p>
+![Banner](banner.png)
 
 # 👋 Olá, eu sou Natanael Teixeira
 
-💻 Desenvolvedor Web em evolução
-🎮 Criador de jogos em HTML5
-🎨 Designer UI/UX
+💻 Desenvolvedor Web em evolução  
+🎮 Criador de jogos em HTML5  
+🎨 Designer UI/UX  
 🏗️ Modelador 3D para Blender e 3ds Max
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia, criação de aplicativos e modelagem 3D. Busco desenvolver projetos com visual moderno, boa experiência para o usuário e código organizado.
+Sou apaixonado por tecnologia, desenvolvimento de jogos, criação de aplicativos e modelagem 3D. Busco desenvolver projetos com visual moderno, boa experiência para o usuário e código organizado.
 
 Atualmente estou trabalhando em:
 
@@ -26,32 +24,29 @@ Atualmente estou trabalhando em:
 
 ## 🛠️ Tecnologias
 
-* HTML5
-* CSS3
-* JavaScript
-* Blender
-* 3ds Max
-* Figma
-* Git & GitHub
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-00BFFF?style=for-the-badge&logo=autodesk&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🎮 Projetos em destaque
 
-### 🎯 Target Arena PRO
-
+### 🎯 [Target Arena PRO](SEU-LINK-AQUI)
 Um jogo arcade desenvolvido em HTML, CSS e JavaScript, com sistema de fases, pontuação, efeitos visuais e interface inspirada em jogos clássicos.
 
-### 📱 Presença Diária
-
+### 📱 [Presença Diária](SEU-LINK-AQUI)
 Aplicativo devocional com foco em uma experiência moderna, intuitiva e agradável para leitura diária.
 
-### 🌐 MN Web
-
+### 🌐 [MN Web](SEU-LINK-AQUI)
 Projeto voltado para desenvolvimento web moderno e responsivo.
 
 ### 🏗️ Projetos 3D
-
 Modelagem de fachadas comerciais, objetos e ativos para Blender e 3ds Max.
 
 ---
@@ -65,10 +60,21 @@ Modelagem de fachadas comerciais, objetos e ativos para Blender e 3ds Max.
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeiell&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeiell&layout=compact&theme=radical)
+
+---
+
 ## 📫 Contato
 
 Seja bem-vindo ao meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução.
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU-LINK-AQUI)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](SEU-LINK-AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-AQUI)
 
 ---
 
